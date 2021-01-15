@@ -1,0 +1,18 @@
+# Build output
+out/
+cache/
+
+# Deployment records
+broadcast/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
